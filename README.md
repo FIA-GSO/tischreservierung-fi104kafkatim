@@ -37,12 +37,13 @@ Das nachfolgende UML-Use-Case Diagramm zeigt die Anwendungsfälle, die das neue 
 Die Abfolge der Nachrichtenflüsse soll in einem UML-Sequenzdiagramm dargestellt werden:
 ![UML-Sequence Diagramm](diagramme/UML-Sequence.drawio.svg)
 
-###Arbeitsschritte
-1. Einrichtung SQLLite
-2. Datenbank Datei einbinden
-3. Flesk austesten
-4. Zugriff auf die Datenbank mit Flesk testen
-5. Die nötigen Funktionen in Flesk erstellen
-6. Datenbank Operationen/Verbindungen in Funktionen hinzufügen
+### Arbeitsschritte
+1. SQLite Browser installieren
+2. SQLite in Python einbinden
+3. Datenbank Datei einbinden
+4. Flesk austesten
+5. Zugriff auf die Datenbank mit Flesk testen
+6. Die nötigen Funktionen in Flesk erstellen
+7. Datenbank Operationen/Verbindungen in Funktionen hinzufügen
 
 
